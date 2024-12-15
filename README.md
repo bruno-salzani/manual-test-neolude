@@ -4,7 +4,7 @@ Este projeto documenta minha experiência como **Analista de Testes** na valida�
 
 ## Objetivo do Projeto
 
-O objetivo deste projeto foi validar as novas funcionalidades do **LMS Neolude**, um sistema de gerenciamento de aprendizado utilizado para oferecer cursos e conteúdos educacionais. Minha responsabilidade foi garantir que as implementações fossem funcionais, sem falhas, e que não afetassem negativamente a experiência do usuário nem o desempenho do sistema.
+O objetivo deste projeto foi validar as novas funcionalidades do **LMS [Neolude](https://inspand.com.br/plataforma-de-aprendizagem/)**, um sistema de gerenciamento de aprendizado utilizado para oferecer cursos e conteúdos educacionais. Minha responsabilidade foi garantir que as implementações fossem funcionais, sem falhas, e que não afetassem negativamente a experiência do usuário nem o desempenho do sistema.
 
 Os testes realizados cobriram os seguintes aspectos:
 
