@@ -1,4 +1,4 @@
-# Teste de Software - Neolude
+# Teste de Software - LMS (Neolude)
 
 Este projeto documenta minha experiência como **Analista de Testes** na validação de novas funcionalidades do **LMS [Neolude](https://inspand.com.br/plataforma-de-aprendizagem/)**, entre **fevereiro de 2019 a maio de 2024**. O objetivo foi garantir que as funcionalidades implementadas proporcionassem uma experiência de usuário otimizada e sem falhas.
 
